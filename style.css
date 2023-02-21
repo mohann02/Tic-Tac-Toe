@@ -1,0 +1,12 @@
+
+h1{
+    color:blue;
+}
+
+tr,td{
+    border: 2px solid black;
+    height: 120px;
+    width: 120px;
+   font-size: 80px;
+   text-align: center;
+}
